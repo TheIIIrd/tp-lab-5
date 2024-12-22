@@ -1,6 +1,5 @@
-# tp-lab-5 [![Build Status](https://app.travis-ci.com/Rigrey/lab04.svg?token=sSjKqXpxzeqqaxAwq5f2&branch=main)](https://app.travis-ci.com/Rigrey/lab04)
-
-Exploring frameworks for testing using GTest as an example.
+# **tp-lab-5** [![Build Status](https://app.travis-ci.com/Rigrey/lab04.svg?token=sSjKqXpxzeqqaxAwq5f2&branch=main)](https://app.travis-ci.com/Rigrey/lab04)
+Exploring frameworks for testing using GTest as an example
 
 ## Tutorial
 
